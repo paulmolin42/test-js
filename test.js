@@ -1,5 +1,5 @@
 function fibonacci(n) {
-  console.log('Coucou');
+  console.log('Coucou';
   let previous = 0;
   let current = 1;
 
